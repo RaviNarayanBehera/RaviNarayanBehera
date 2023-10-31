@@ -32,4 +32,4 @@ I would be very happy to help you with any developer projects.
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ravinarayanbehera&show_icons=true&locale=en" alt="ravinarayanbehera" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravinarayanbehera&" alt="ravinarayanbehera" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravinarayanbehera&" alt="ravinarayanbehera" /></p>
