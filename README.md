@@ -1,6 +1,6 @@
-### Hi there 
 
-I'm Ravi from India. I am on the way to becoming a developer.
+
+
 
 
 ### Hi there 👋, RaviNarayan Behera
