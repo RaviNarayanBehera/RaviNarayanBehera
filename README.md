@@ -27,9 +27,9 @@ I would be very happy to help you with any developer projects.
 
 
 
-<br></br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravinarayanbehera&show_icons=true&locale=en&layout=compact" alt="ravinarayanbehera" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ravinarayanbehera&show_icons=true&locale=en" alt="ravinarayanbehera" /></p>
-
+<p></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravinarayanbehera&" alt="ravinarayanbehera" /></p>
