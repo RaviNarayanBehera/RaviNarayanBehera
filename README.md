@@ -1,11 +1,7 @@
-
-
-
-
+![Flutter and App Developer](https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/bg.webp)
 
 ### Hi there 👋, RaviNarayan Behera
 #### Flutter and App Developer
-![Flutter and App Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1DQErwEfNNdx3wrfM0NOp57kXh9PkeeFGg&usqp=CAU)
 
 I'm Ravi from India. I am on the way to becoming a developer.
 I would be very happy to help you with any developer projects.
