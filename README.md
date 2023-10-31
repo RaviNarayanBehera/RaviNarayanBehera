@@ -1,4 +1,4 @@
-![Flutter and App Developer](https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/bg.webp)
+![Flutter and App Developer](https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/bg2.jpg)
 
 ### Hi there 👋, RaviNarayan Behera
 #### Flutter and App Developer
