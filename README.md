@@ -1,7 +1,8 @@
 ![Flutter and App Developer](https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/bg2.jpg)
 
-### Hi there 👋, RaviNarayan Behera
+### Hi there 👋, RaviNarayan Behera.
 #### Flutter and App Developer
+<img align="right" alt="coding" width="550" scr="https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/github.gif">
 
 I'm Ravi from India. I am on the way to becoming a developer.
 I would be very happy to help you with any developer projects.
