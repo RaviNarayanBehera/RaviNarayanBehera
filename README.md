@@ -1,9 +1,7 @@
 ![Flutter and App Developer](https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/bg2.jpg)
-
 ### Hi there 👋, RaviNarayan Behera.
-
 #### Flutter and App Developer
-<img align="right" alt="coding" width="450" src="https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/github.gif">
+<img align="right" alt="coding" width="350" src="https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/github.gif">
 
 
 
