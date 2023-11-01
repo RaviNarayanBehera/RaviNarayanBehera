@@ -1,4 +1,4 @@
-![Flutter and App Developer](https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/bg2.jpg)
+![Flutter and App Developer](https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/17_Mobile%20App%20Development.gif)
 <img align="right" alt="coding" width="450" src="https://github.com/RaviNarayanBehera/RaviNarayanBehera/blob/main/github.gif">
 # Hi there 👋, I'm RaviNarayan Behera.
 <h2 align="center"> Flutter and App Developer</h2>
